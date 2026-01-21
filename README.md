@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Khairul Alom 👋
 
-<!--
-**khirulalom212-spec/khirulalom212-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Frontend Web Developer (Beginner–Junior) learning and building projects with **HTML, CSS, JavaScript**.
 
-Here are some ideas to get you started:
+## 🚀 Live Projects
+- **Portfolio Website**: https://khirulalom212-spec.github.io/my-portfolio/
+- **JavaScript Calculator**: https://khirulalom212-spec.github.io/my-portfolio/calculator.html
+- **Todo List App (LocalStorage)**: https://khirulalom212-spec.github.io/my-portfolio/todo.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML5, CSS3
+- JavaScript (DOM, Events, LocalStorage)
+- Git & GitHub, GitHub Pages
+
+## 📬 Contact
+- Email: your-email@example.com
+- WhatsApp: https://wa.me/8801XXXXXXXXX
+- Messenger: https://m.me/yourusername
+
+## 🌱 Currently Learning
+- Responsive UI
+- JavaScript Projects
+- Clean UI/UX
+
+Thanks for visiting my GitHub profile!
