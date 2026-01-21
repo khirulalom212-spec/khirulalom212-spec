@@ -13,9 +13,8 @@ I’m a Frontend Web Developer (Beginner–Junior) learning and building project
 - Git & GitHub, GitHub Pages
 
 ## 📬 Contact
-- Email: your-email@example.com
-- WhatsApp: https://wa.me/8801XXXXXXXXX
-- Messenger: https://m.me/yourusername
+- Email: your-khirulalom212@gmail.com
+- WhatsApp: https://wa.me/8801312346017
 
 ## 🌱 Currently Learning
 - Responsive UI
